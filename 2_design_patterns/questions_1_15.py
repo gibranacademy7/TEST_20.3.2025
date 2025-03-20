@@ -1,0 +1,17 @@
+# Design Patterns
+
+# Question 1: ====> A   => (Builder Pattern)
+# Question 2: ====> A   => (Observer Pattern)
+# Question 3: ====> C   => (Singleton Pattern)
+# Question 4: ====> A   => (State Pattern)
+# Question 5: ====> A   => (Template Method Pattern)
+# Question 6: ====> B   => (Facade Pattern)
+# Question 7: ====> A   => (Decorator Pattern)
+# Question 8: ====> B   => (Chain of Responsibility Pattern)
+# Question 9: ====> B   => (Composite Pattern)
+# Question 10: ====> B  => (Abstract Factory)
+# Question 11: ====> C  => (Facade Pattern)
+# Question 12: ====> A  => (Strategy Pattern)
+# Question 13: ====> A  => (Proxy Pattern)
+# Question 14: ====> B  => (Iterator Pattern)
+# Question 15: ====> B  => (Prototype Pattern)
